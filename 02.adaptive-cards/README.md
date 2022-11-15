@@ -18,12 +18,12 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 - Clone the repository
 
     ```bash
-    git clone https://github.com/ramfattah/BotBuilder-MinimalApi-Samples.git
+    git clone https://github.com/ramfattah/botbuilder_minimal_api_samples.git
     ```
 
 - Run the bot from a terminal or from Visual Studio:
 
-  A) From a terminal, navigate to `dotnet_minimal_api\02.adaptive-cards`
+  A) From a terminal, navigate to `botbuilder_minimal_api_samples\02.adaptive-cards`
 
   ```bash
   # run the bot
@@ -34,7 +34,7 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
   - Launch Visual Studio
   - File -> Open -> Project/Solution
-  - Navigate to `dotnet_minimal_api\02.adaptive-cards` folder
+  - Navigate to `botbuilder_minimal_api_samples\02.adaptive-cards` folder
   - Select `AdaptiveCardsBot.csproj` file
   - Press `F5` to run the project
 
