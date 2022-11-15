@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EchoBot", "01.echo-bot\EchoBot.csproj", "{BDF26FE6-3E85-44BB-B252-7E12EA88F268}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaptiveCardsBot", "02.adaptive-cards\AdaptiveCardsBot.csproj", "{232B965C-C64B-4FC6-9821-8FD62FC44A60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdaptiveCardsBot", "02.adaptive-cards\AdaptiveCardsBot.csproj", "{232B965C-C64B-4FC6-9821-8FD62FC44A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamsAuth", "03.teams-auth\TeamsAuth.csproj", "{A50D0049-600E-444D-9ACE-9A8C68940DC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{232B965C-C64B-4FC6-9821-8FD62FC44A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{232B965C-C64B-4FC6-9821-8FD62FC44A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{232B965C-C64B-4FC6-9821-8FD62FC44A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50D0049-600E-444D-9ACE-9A8C68940DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50D0049-600E-444D-9ACE-9A8C68940DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50D0049-600E-444D-9ACE-9A8C68940DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50D0049-600E-444D-9ACE-9A8C68940DC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
